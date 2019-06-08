@@ -1,0 +1,2 @@
+# Clicky-Game
+GAME: CLICK THE IMAGE ONLY ONCE TO WIN 
